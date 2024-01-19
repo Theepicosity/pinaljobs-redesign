@@ -1,0 +1,7 @@
+use json to add more job positions and mysql to accept incoming applications
+open on two different browsers and phone
+keep in mind contrast n stuff (accessibility)
+
+i want sql and json :(
+
+NO TEMPLATE
