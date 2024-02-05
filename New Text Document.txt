@@ -5,3 +5,5 @@ keep in mind contrast n stuff (accessibility)
 i want sql and json :(
 
 NO TEMPLATE
+
+HOW TO CENTER ELEMENTS IN BOOTSTRAP ???
