@@ -17,6 +17,7 @@ body {
     font-weight: 400;
     color: black;
     margin: auto;
+    margin-top: 1%;
     transition: .5s;
 }
 
